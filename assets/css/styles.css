@@ -17,6 +17,10 @@
 	height: 400px;
 }
 
+.backgroundImage:hover {
+	background-image: url()../img/clock.png);
+	cursor: crosshair;
+}
 body {
 	margin: 100px auto;
 	width: 50%;
