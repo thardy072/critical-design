@@ -8,8 +8,14 @@
   font-family: "Limelight", sans-serif;
   font-weight: 400;
   font-style: normal;
+	fpnt-size: 3em;
 }
 
+.backgrondImage{
+	background-image: url(../img/wrench.png);
+	width: 400px;
+	height: 400px;
+}
 
 body {
 	margin: 100px auto;
